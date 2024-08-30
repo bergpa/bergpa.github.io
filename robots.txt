@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bergpa.github.io/sitemap/sitemap.jbF.gz
