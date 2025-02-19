@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bergpa.csgad.com/tRO/sitemap.xml.gz
